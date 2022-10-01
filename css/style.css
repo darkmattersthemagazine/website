@@ -8323,6 +8323,8 @@ h1, h2, h3, h4, h5,
       transition: .3s all ease-out; }
     .ftco-navbar-light.scrolled .navbar-brand {
       color: #000000; }
+      .ftco-navbar-light.scrolled .navbar-brand img {
+        src: "images/"; }  
       .ftco-navbar-light.scrolled .navbar-brand span {
         color: #bf925b; }
 
